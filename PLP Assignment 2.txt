@@ -1,0 +1,47 @@
+What is software engineering, and how does it differ from traditional programming? Software Development Life Cycle (SDLC):
+is an engineering branch associated with development of software product using well-defined scientific principles, methods and procedures.
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models:
+Requirement-in this phase,developers analyze the resources needed for the project to be aaccomplished then they are gathered
+Design-helps in specifying hardware and system requirements and also helps in defining overall system architecture
+Implementation-actual coding is started
+Testing-it involves evaluating the quality of the software against the requirements
+Deployment- the product is delivered to the user
+Maintenance-the software is updated depending on changing environments
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+In a waterfall model, each phase must be completed fully before the next phase can begin. In waterfall model phases do not overlap. It is preferred for smaller projects.
+In agile, software is developed in incremental, rapid cycles.This results in small incremental releases with each release building on previous functionality.Agile is the preffered for projects where it is essential to have flexibility and fast delivery. 
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+The process of gathering the software requirements from clients, analyzing and documenting them.
+Feasibility Study 
+Requirement Gathering 
+Software Requirement Specification 
+Software Requirement Validation 
+Requirements engineering ensures that the final product meets the needs of the software product effectively.
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+it involves breaking down a system into smaller modules to make it manageable and easy to develop.Each module performs a different function and can be tested independently hence making maintainability and scalability easy.
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Unit testing- tests each module in a software
+Integration testing- tests how the units cooperate effectively
+System testing- tests the entire system
+Acceptance testing- tests if the software meets user requirements
+Testing enables the developer to identify bugs and problems and fix them and make sure that the product is actually solving the needs adressed
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features
+These are systems that track changes to files over time and manage different versions of files. They allow different developers to collaborate on projects simultaneously.Examples include Git (with GitHub, GitLab)
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+The duties of a software project manager include analysing project constraints, setting project objectives, coordinating internal and external teams, creating timelines, and keeping an eye on key performance indicators.
+Some challenges are adapting to changing requirements and balancing priorities.
+Some key responsibilities are
+Plans from Execution to Delivery
+Oversees the Software Development Team
+Delegating Work Effectively
+Monitoring Progress 
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle
+Software maintenance is the process of modifying and updating software in order to keep it functioning properly.Maintenance is essential in order to keep software up to date and secure.
+Types of maintenance include corrective, adaptive, perfective, and preventive maintenance.
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? 
+Algorithmic bias.
+Personal data collection.
+Weak security protection.
+Negative relationship between feature and impact.
+Respecting ethical norms entails abiding by rules of behaviour, taking into account the effects on society, and putting users' welfare first.
+
